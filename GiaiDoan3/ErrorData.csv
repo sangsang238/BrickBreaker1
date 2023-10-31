@@ -7,4 +7,4 @@ VALIDATION_PLAYERNAME_E001;Player Name cannot be empty!
 VALIDATION_PLAYERNAME_E002;Player Name must not be longer than 15 characters!
 SIGNUP_USERNAME_E003;Username already exists!
 SIGNUP_PLAYERNAME_E003;Playername already exists!
-SUCCESS;SUCCESS!
+SUCCESS;SUCCESS
